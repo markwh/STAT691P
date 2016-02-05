@@ -1,0 +1,11 @@
+version: 0.6
+data_loading: TRUE
+cache_loading: TRUE
+recursive_loading: FALSE
+munging: TRUE
+logging: FALSE
+load_libraries: TRUE
+libraries: reshape, plyr, ggplot2, stringr, lubridate, Amelia, ellipse, corrgram, Hmisc, caret, pscl, glmnet, dplyr
+as_factors: TRUE
+data_tables: FALSE
+attach_internal_libraries: FALSE
